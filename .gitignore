@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+ag_test.csv
+ag_train.csv
+BBCNews.csv
+customer_support_tickets.csv
+IMDB Dataset.csv
